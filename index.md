@@ -2,7 +2,7 @@
 
 Salut!
 
-[Mon ordi](Raspberry-Pi-4-Model-B.jpg)
+![Mon ordi](Raspberry-Pi-4-Model-B.jpg)
 
 You can use the [editor on GitHub](https://github.com/justinvention/Justin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
